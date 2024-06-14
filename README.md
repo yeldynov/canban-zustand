@@ -1,9 +1,9 @@
 # Canban Dashboard
 
-![Screenshot Canban](image.png)
-
 ## Tech Stack
 
 - TypeScript
 - Next.js + Tailwind CSS
 - Zustand State Management
+
+![Screenshot Canban](image.png)
